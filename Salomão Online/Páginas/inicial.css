@@ -1,0 +1,51 @@
+
+/* Barrinha de cima */
+
+.navbar-outro {
+	background-color: #191970;
+}
+
+#N {
+	color: #DCDCDC;
+}
+
+/* Ícones */
+
+.placeholders {
+  margin-top: 120px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.placeholders h4 {
+  margin-bottom: 0;
+}
+
+.placeholder {
+  margin-bottom: 20px;
+  margin-left:63px;
+}	
+
+.placeholder2 {
+  margin-top: 130px;
+  margin-left:207px;
+}
+	
+.B {
+  margin-top: 10px;
+  margin-left: 60px;
+}	
+
+.placeholder img {
+  display: inline-block;
+}
+
+/* Rodapé */
+
+.panel-footer {
+  padding: 2.5rem 0;
+  color: #000000;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: .05rem solid #e5e5e5;
+}
